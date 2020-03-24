@@ -1,0 +1,6 @@
+framework module Pods_RWPicker {
+  umbrella header "Pods-RWPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
